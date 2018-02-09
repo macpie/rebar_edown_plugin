@@ -1,10 +1,13 @@
 {application, rebar_edown_plugin,
  [{description, "A rebar3 plugin for edown."}
- ,{vsn, "0.1.0"}
+ ,{vsn, git}
  ,{registered, []}
  ,{applications,
     [kernel
     ,stdlib]}
  ,{env,[]}
  ,{modules, []}
+ ,{maintainers, ["Manuel Rubio", "Jamu Kakar"]}
+ ,{licenses, ["BSD 3-Clause \"New\" or \"Revised\" License"]}
+ ,{links, [{"Github", "https://github.com/altenwald/rebar_edown_plugin"}]}
  ]}.
