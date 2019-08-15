@@ -1,4 +1,4 @@
 [{<<"edown">>,
   {git,"https://github.com/macpie/edown.git",
-       {ref,"ad9015d7fe735bd32b3b097a8ca4fc5f039efe0c"}},
+       {ref,"bda06fe2d550382444e6e92329784f2d677a4b7a"}},
   0}].
